@@ -50,7 +50,7 @@ $${\color{#4c505f} Usuallyㅤsittingㅤbyㅤdocks, ㅤlibrary, ㅤorㅤatㅤaㅤ
 <summary>$\color{#964b64}{\textsf{ㅤㅤㅤㅤㅤPTㅤTitlesㅤㅤㅤㅤㅤ}}$</summary>
     <br>
     
-$${\color{#717170} Thankㅤyou}$$ ㅤ [pt-walk-of-fame](https://github.com/pt-walk-of-fame)ㅤ  [pt-players](https://github.com/pt-players)ㅤ  [choco-town](https://github.com/choco-town)ㅤ  [ponytowns-rewards](https://github.com/ponytowns-rewards)ㅤ  [kaotown](https://github.com/kaotown)ㅤ  [music-town](https://github.com/music-town)ㅤ  [paw-town](https://github.com/paw-town)...ㅤ♡
+$${\color{#717170} Thankㅤyou}$$ ㅤ [pt-walk-of-fame](https://github.com/pt-walk-of-fame)ㅤ  [pt-players](https://github.com/pt-players)ㅤ  [choco-town](https://github.com/choco-town)ㅤ  [ponytowns-rewards](https://github.com/ponytowns-rewards)ㅤ  [kaotown](https://github.com/kaotown)ㅤ  [music-town](https://github.com/music-town)ㅤ  [paw-town](https://github.com/paw-town)ㅤ  [pt-everypony](https://github.com/pt-everypony)...ㅤ♡
 
   </details>
   </td>
