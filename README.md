@@ -1,6 +1,6 @@
 <p align="center"
   
-![](https://komarev.com/ghpvc/?username=situationcritical&color=492131&style=plastic&label=blueprints)　 ${\text{\color{#560317} the　\color{#700421} ability　\color{#90072E} to　\color{#B0093A} appreciate　\color{#A02949} beauty　\color{#904A58} is　\color{#7F6A67} an　\color{#6F8B76} important　\color{#5FAB85} virtue.}}$ 　( ᐡづ ᆺ◝ᐡ)
+![](https://komarev.com/ghpvc/?username=situationcritical&color=492131&style=plastic&label=blueprints)　 ${\text{\color{#734647} the　\color{#744c47} ability　\color{#755249} to　\color{#75584c} appreciate　\color{#755e50} beauty　\color{#756356} is　\color{#74685c} an　\color{#75726b} important　\color{#878787} virtue.}}$ 　( ᐡづ ᆺ◝ᐡ)
 
 </p>
 
