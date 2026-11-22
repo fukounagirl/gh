@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center"><img width="400" src="https://i.postimg.cc/GhgxsXQJ/Untitled67-20260326113933.png" alt="kaveh!" align="left" width="300" /></p>
+<p align="center"><img width="400" src="https://i.postimg.cc/GhgxsXQJ/Untitled67-20260326113933.png" alt="kaveh!" align="left" width="400" /></p>
 <div align="left"> ㅤ </div>
 <div align="left"> ㅤ </div>
 <div align="left"> ㅤ </div>
@@ -16,4 +16,36 @@ ${\color{#b1a88e}{\textsf enfp-t }} \color{#decfa3}{\textsf{┣▇▇▇═─
 <br/>
 ${\text{\color{#676765} ᕱᰍ。　\color{#7c7b76} host　\color{#86867c} to　\color{#929082} the　\color{#9e9b87} video　\color{#aaa58d} home　\color{#c1b895} system !}}$
 
-　 [sign atabook](https://kaveh.atabook.org) 　‎$${\color{#558A66}✦}$$　 [contact me](https://guns.lol/vhs)
+　 　<sub><a href= "https://kaveh.atabook.org"> sign atabook</a> ㅤ $${\color{#612e42}✦}$$ ㅤ <a href= "https://guns.lol/vhs">contact me</a> ㅤ $${\color{#492131}✦}$$ ㅤ <a href= "https://fluffle.cc/kavehs">other info</a>
+
+<div align="left"> ㅤ </div>
+
+<tr>
+<td>
+  <details>
+<summary>$\color{#6b334a}{\textsf{ㅤㅤㅤㅤㅤPTㅤInfoㅤㅤㅤㅤㅤ}}$</summary>
+<sub>${\color{#717170}{\textsf I'm‎　usually‎　off-tab;‎　whisper‎　to　interact.}}$
+</br>
+${\color{#676b67}{\textsf C+H　is　always　encouraged,　even　when　I'm　with　friends.}}$
+</br>
+${\color{#5b6563}{\textsf Please　don't　copy　my　skins,　light　inspo　is　okay.}}$
+</br>
+${\color{#515e62}{\textsf Usually　sitting　by　the　bakery,　docks,　or　at　a　regi...}}$
+
+
+  </details>
+  </td>
+  </tr>
+  <tr>
+<td>
+  <details>
+<summary>$\color{#964b64}{\textsf{ㅤㅤㅤㅤㅤPTㅤTitlesㅤㅤㅤㅤㅤ}}$</summary>
+    
+<sub>$${\color{#717170} Thankㅤyou}$$ ㅤ [pt-walk-of-fame](https://github.com/pt-walk-of-fame)ㅤ  [pt-players](https://github.com/pt-players)ㅤ  [choco-town](https://github.com/choco-town)ㅤ  [ponytowns-rewards](https://github.com/ponytowns-rewards)ㅤ  [kaotown](https://github.com/kaotown)ㅤ  [music-town](https://github.com/music-town)
+</br>
+[paw-town](https://github.com/paw-town)ㅤ  [pt-everypony](https://github.com/pt-everypony)...ㅤ♡
+
+  </details>
+  </td>
+  </tr>
+
