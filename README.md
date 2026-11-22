@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=situationcritical&color=492131&style=plastic&label=blueprints)　 $${\color{#663549} the　ability　to　appreciate　beauty　is　an　important　virtue.}$$ 　( ᐡづ ᆺ◝ᐡ)
+<p align="center"
+  
+![](https://komarev.com/ghpvc/?username=situationcritical&color=492131&style=plastic&label=blueprints)　 $${\color{#663549} the　ability　to　appreciate　beauty　is　an　important　virtue.}$$ 　( ᐡづ ᆺ◝ᐡ)</p>
 
 
 <p align="center"><img width="400" src="https://i.postimg.cc/GhgxsXQJ/Untitled67-20260326113933.png" alt="kaveh!" align="left" width="300" /></p>
