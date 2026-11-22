@@ -10,8 +10,10 @@
 <div align="left"> ㅤ </div>
 <div align="left"> ㅤ </div>
 <p align="left">
-${\color{#4c505f}{\textsf . ⺣ . ᩙᧆ݂}} \color{#717170}{\textsf{kaveh}}ㅤ\color{#b1a88e}{\textsf{or}}   \color{#878787}{\textsf{kei / kao}}  \color{#decfa3}{\textsf{he}}ㅤ\color{#b1a88e}{\textsf{any prns}}$
+${\color{#4c505f}{\textsf . ⺣ . ᩙᧆ݂}} \color{#717170}{\textsf{kaveh}}ㅤ\color{#b1a88e}{\textsf{or}}   \color{#878787}{\textsf{kei / kao}}  \color{#decfa3}{\textsf{he}}ㅤ\color{#b1a88e}{\textsf{any　prns}}$
 <br/>
 ${\color{#b1a88e}{\textsf enfp-t }} \color{#decfa3}{\textsf{┣▇▇▇═──}} \color{#717170}{\textsf{omnisexual}}  \color{#4c505f}{\textsf{acespec}}$
 <br/>
-${\color{#b1a88e}{\textsf apart}} \color{#decfa3}{\textsf{of the}} \color{#717170}{\textsf{video home system!}} \color{#decfa3}{\textsf{ ﹕ ꔫ}}$
+${\text{\color{#676765} ᕱᰍ。　\color{#7c7b76} host　\color{#86867c} to　\color{#929082} the　\color{#9e9b87} video　\color{#aaa58d} home　\color{#c1b895} system !}}$
+
+　 [sign atabook](https://kaveh.atabook.org) 　‎$${\color{#558A66}✦}$$　 [contact me](https://guns.lol/vhs)
